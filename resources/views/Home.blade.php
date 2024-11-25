@@ -1,4 +1,4 @@
-<x-layout-guest page-title='Home'>
+<x-layout-app page-title='Home'>
     
     
-</x-layout-guest>
+</x-layout-app>
