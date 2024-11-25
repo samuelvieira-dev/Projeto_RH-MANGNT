@@ -17,6 +17,8 @@
 
 <body>
 
+    <x-user-bar />
+
     {{$slot}}
     <!-- resources -->
     <script src="{{ asset('assets/datatables/jquery.min.js')}}"></script>
